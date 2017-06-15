@@ -1,0 +1,78 @@
+.backsign{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM_2794AaJARFUG6YcbvRk-TZIfg10cjBJdAtHFJ5t-AE_6gPpA);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+.back{
+	background-image: url(https://qph.ec.quoracdn.net/main-qimg-2d8856e03652675eb4a93469c98f602b);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+
+.boo{
+	background-color: grey;
+	height: 75px;
+	
+}
+.b2{
+    padding: 10px;
+	font-size: 30px;
+}
+.y2r1{
+	background-color: yellow;
+    height: 575px;  
+      }
+.r2{
+	background-color: red;
+	
+}
+.g2{
+	background-color: green;
+}
+.border{
+	background-color: black;
+}
+body{
+	
+	
+	}
+.white{
+	background-color: white;
+}
+.webmain{
+	color: black;
+	font-size: 100px;}
+.orange{
+	background-color: orange;
+    color:blue; 
+    font-size: 100px;    }
+.white{
+	background-color:white;
+    color:blue;
+     font-size: 100px;  }
+.green{
+	background-color: green;
+	color:blue;
+	 font-size: 100px;  
+}
+.drop{
+	align:right;
+	}
+
+.webname{
+	font-size: 25px;
+	padding-top:-200px;
+
+}
+.logo{
+	padding-bottom: -50px;
+}
+.formi{
+	background-color:blue;
+}
+.goa{
+background-color:aqua; }
+.red{
+    font-size: 50px;
+	color: red;
+}
